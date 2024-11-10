@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Price Prediction using Regression</title>
+<title> Car Price Prediction using Regression </title>
 </head>
 <body>
 <h1>Car Price Prediction using Regression</h1>
@@ -46,6 +46,6 @@
     <p>Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.</p>
 
 <h2>Contact</h2>
-    <p>For any questions, feel free to reach out to me at <a href="shrishkamboz@gmail.com">your.email@example.com</a>.</p>
+    <p>For any questions, feel free to reach out to me at <a href="shrishkamboz@gmail.com">shrishkamboz@gmail.com</a>.</p>
 </body>
 </html>
