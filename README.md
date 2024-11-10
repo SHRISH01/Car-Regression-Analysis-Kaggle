@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title> Car Price Prediction using Regression </title>
+Car Price Prediction using Regression
 </head>
 <body>
 <h1>Car Price Prediction using Regression</h1>
@@ -38,9 +38,6 @@
 
 <h2>Results</h2>
     <p>The model performance is evaluated using RMSE, and sample predictions are provided to demonstrate the accuracy of the predictions made by the model.</p>
-
-<h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <code>LICENSE</code> file for details.</p>
     
 <h2>Contributing</h2>
     <p>Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.</p>
