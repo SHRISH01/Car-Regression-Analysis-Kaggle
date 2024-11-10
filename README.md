@@ -27,7 +27,7 @@ Car Price Prediction using Regression
 <h2>Installation and Usage</h2>
     <ol>
         <li>Clone this repository:</li>
-        <pre><code>git clone https://github.com/username/car-price-prediction</code></pre>
+        <pre><code>git clone https://github.com/shrish01/BreadcrumbsCar-Regression-Analysis-Kaggle</code></pre>
         <li>Install required dependencies:</li>
         <pre><code>pip install pyspark</code></pre>
         <li>Run the Jupyter notebook or script file to preprocess the data and train the model.</li>
